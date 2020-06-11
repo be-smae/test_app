@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 * 
-# test for git commit
+1. test for git commit
+2. test for first GitHub commit
